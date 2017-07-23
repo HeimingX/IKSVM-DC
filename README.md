@@ -4,9 +4,11 @@
 
 This package implements a novel indefinite kernel SVM algorithm named IKSVM-DC. The algorithm IKSVM-DC is specially designed for the primal form of indefinite kernel SVM problem. Further details about IKSVM-DC can be found in the following [paper](http://cse.seu.edu.cn/people/hxue/papers/Solving%20indefinite%20kernel%20support%20vector%20machine%20with%20difference%20of%20convex%20functions%20programming.pdf):
 
-  Solving Indefinite Kernel Support Vector Machine with Difference of Convex Functions Programming
-  H.-M. Xu, H. Xue, X.-H. Chen, Y.-Y. Wang
-  In AAAI'17
+```
+Solving Indefinite Kernel Support Vector Machine with Difference of Convex Functions Programming
+H.-M. Xu, H. Xue, X.-H. Chen, Y.-Y. Wang
+In AAAI'17
+```
 
 # Requirements
 
